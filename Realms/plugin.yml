@@ -1,0 +1,8 @@
+name: Realms
+version: 1.00 CB version 1.7.9
+author: Petros Polemistis
+load: STARTUP
+main: com.polemistis.realms.Realms
+commands:
+  realms:
+    description: Realms main command.

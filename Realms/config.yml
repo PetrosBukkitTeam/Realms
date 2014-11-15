@@ -1,0 +1,7 @@
+# Realms Config File #
+realm size:
+  x-diameter: 50
+  z-diameter: 50
+  y-diameter: 50
+  # If the 'fill' property is true, then the claiming process will bypass the 'y-diameter' property value and claim from top to bottom #
+  y-fill: true
