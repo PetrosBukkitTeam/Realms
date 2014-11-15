@@ -41,8 +41,9 @@ public class Cmd_Realms implements CommandExecutor
 		{
 			if(sender.hasPermission(perm.getValue()))
 			{
-				sender.sendMessage(ChatColor.GOLD + "Welcome to Realms!");
+				sender.sendMessage(ChatColor.GOLD + "Welcome to Realms! UPDATED!");
 			}
+			
 		}
 		else if(branch.equalsIgnoreCase("claim"))
 		{
